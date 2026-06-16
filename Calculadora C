@@ -8,7 +8,9 @@ int opcion;
 float num1,num2,resultado;
 
 
-printf("CALCULADORA\n");
+printf("=================\n");
+printf("CALCULADORA DIGITAL\n");
+printf("=================\n");
 
 printf("1. Suma\n");
 printf("2. Resta\n");
@@ -32,3 +34,4 @@ scanf("%f",&num2);
 return 0;
 
 }
+printf("Seleccione una operacion:\n");
